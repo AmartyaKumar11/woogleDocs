@@ -1,4 +1,4 @@
-# woogleDocs Clone
+# woogleDocs 
 
 This is a collaborative Google Docs clone built using **React**, **Quill**, **Socket.IO**, and **MongoDB**. The app allows multiple users to edit the same document in real-time and provides the ability to save the document periodically.
 
